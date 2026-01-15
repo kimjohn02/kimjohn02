@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KJ M. Lupogan</h1>
+<h1 align="center">Hi 👋, I'm KJ M. LUPOGAN</h1>
 <h3 align="center">Software Developer | UI/UX Enthusiast | Building useful things, one commit at a time 🚀</h3>
 
 <p align="center">
