@@ -1,12 +1,17 @@
-<h1 align="center">Hi 👋, I'm KJ M. Lupogan</h1>
-<h3 align="center">Software Developer • UI/UX Enthusiast • Building meaningful digital experiences 🚀</h3>
+<!-- PROFILE HEADER -->
+<h1 align="center">KJ M. Lupogan</h1>
+<h3 align="center">Software Developer • UI/UX Enthusiast</h3>
+
+<p align="center">
+  Building meaningful digital experiences through clean code and thoughtful design 🚀
+</p>
 
 <p align="center">
   <a href="https://fb.com/kim lupogan">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://instagram.com/lupkimjohn">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -14,54 +19,54 @@
 
 ## 👨‍💻 About Me
 
-🎓 I am a passionate **Software Developer** focused on creating clean, efficient, and user-centered applications.  
-💡 I enjoy solving real-world problems through technology and transforming ideas into functional digital solutions.  
-🌱 Currently expanding my knowledge in **Full-Stack Development** and modern development practices.  
-🎯 Interested in **Web Development, Software Engineering, and UI/UX Design**.  
-🛠 I believe great software combines **functionality, usability, and thoughtful design**.
+- 🎓 Passionate **Software Developer** focused on building clean and user-friendly applications  
+- 💡 Enjoy solving real-world problems through technology  
+- 🌱 Currently learning **Full-Stack Development** and modern software practices  
+- 🎯 Interested in **Web Development, Software Engineering, and UI/UX Design**  
+- 🛠 Strong believer that great software balances **functionality + usability + design**
 
 ---
 
-## 🔗 Connect With Me
+## 🧰 Tech Stack
 
-<p align="left">
-<a href="https://fb.com/kim lupogan" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,js,php,java,python,mysql,git&theme=light" />
+
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- 🔹 Strengthening Full-Stack Development skills  
+- 🔹 Developing academic and personal projects  
+- 🔹 Improving UI/UX design thinking  
+- 🔹 Writing scalable and maintainable code  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="https://fb.com/kim lupogan">
+  <img src="https://img.shields.io/badge/Facebook-KJ%20Lupogan-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
 </a>
-<a href="https://instagram.com/lupkimjohn" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+<a href="https://instagram.com/lupkimjohn">
+  <img src="https://img.shields.io/badge/Instagram-@lupkimjohn-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 🧰 Languages & Tools
+## ✨ Motto
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" alt="Git"/>
+<p align="center">
+<i>"Great software is built through curiosity, consistency, and continuous learning."</i>
 </p>
 
 ---
 
-## 🚀 What I'm Currently Working On
-
-- Improving **Full-Stack Development Skills**
-- Building practical academic and personal projects
-- Learning better **UI/UX design principles**
-- Writing cleaner and more maintainable code
-
----
-
-## ✨ Personal Motto
-
-> *"Great software is built through curiosity, consistency, and continuous learning."*
-
----
-
-⭐ **Feel free to explore my repositories and connect with me!**
+<p align="center">
+⭐ Explore my repositories and feel free to connect!
+</p>
