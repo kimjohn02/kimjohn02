@@ -1,23 +1,28 @@
-<h1 align="center">Hi 👋, I'm KJ M. LUPOGAN</h1>
-<h3 align="center">Software Developer | UI/UX Enthusiast | Building useful things, one commit at a time 🚀</h3>
+<h1 align="center">Hi 👋, I'm KJ M. Lupogan</h1>
+<h3 align="center">Software Developer • UI/UX Enthusiast • Building meaningful digital experiences 🚀</h3>
 
 <p align="center">
-  <a href="https://fb.com/kim lupogan"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/lupkimjohn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://fb.com/kim lupogan">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/lupkimjohn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Passionate about building **clean, functional, and user-friendly applications**
-- 💡 Interested in **Web Development, Software Engineering, and UI/UX Design**
-- 🌱 Currently improving my skills in **full-stack development**
-- 🛠 Love turning ideas into real, working products
+🎓 I am a passionate **Software Developer** focused on creating clean, efficient, and user-centered applications.  
+💡 I enjoy solving real-world problems through technology and transforming ideas into functional digital solutions.  
+🌱 Currently expanding my knowledge in **Full-Stack Development** and modern development practices.  
+🎯 Interested in **Web Development, Software Engineering, and UI/UX Design**.  
+🛠 I believe great software combines **functionality, usability, and thoughtful design**.
 
 ---
 
-### 🔗 Connect with Me
+## 🔗 Connect With Me
 
 <p align="left">
 <a href="https://fb.com/kim lupogan" target="_blank">
@@ -30,22 +35,33 @@
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages & Tools
 
-<ul>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> HTML5</li>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> JavaScript</li>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20"/> PHP</li>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20"/> Java</li>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python</li>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> MySQL</li>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20"/> Git</li>
-</ul>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" alt="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" alt="Git"/>
+</p>
 
 ---
 
-### ✨ Motto
+## 🚀 What I'm Currently Working On
 
-> *"Great software is built with passion, patience, and continuous learning."*
+- Improving **Full-Stack Development Skills**
+- Building practical academic and personal projects
+- Learning better **UI/UX design principles**
+- Writing cleaner and more maintainable code
 
-⭐ Feel free to explore my repositories and connect with me!
+---
+
+## ✨ Personal Motto
+
+> *"Great software is built through curiosity, consistency, and continuous learning."*
+
+---
+
+⭐ **Feel free to explore my repositories and connect with me!**
